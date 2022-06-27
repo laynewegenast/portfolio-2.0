@@ -104,6 +104,15 @@ header a {
   text-decoration: none;
 }
 
+#footer {
+  margin-top: 2;
+}
+
+#linkedin {
+  max-width: 64px;
+  margin-left: 20px;
+}
+
 button {
   font-size: 1rem;
   text-decoration: none;
